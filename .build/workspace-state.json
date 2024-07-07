@@ -1,0 +1,78 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "ignite",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/twostraws/Ignite.git",
+          "name" : "Ignite"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "1110fbbf420f7c328210ccbc39c41cfa50de5b27"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "Ignite"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-argument-parser",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-argument-parser.git",
+          "name" : "swift-argument-parser"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "0fbc8848e389af3bb55c182bc19ca9d5dc2f255b",
+            "version" : "1.4.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-argument-parser"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-cmark",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-cmark.git",
+          "name" : "cmark-gfm"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "gfm",
+            "revision" : "2c47322cb32cbed555f13bf5cbfaa488cc30a785"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-cmark"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-markdown",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-markdown.git",
+          "name" : "swift-markdown"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "main",
+            "revision" : "365bf2d61d5fbca5cbd3b359b203ef6a69d9381f"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-markdown"
+      }
+    ]
+  },
+  "version" : 6
+}

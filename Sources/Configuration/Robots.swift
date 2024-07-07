@@ -1,6 +1,6 @@
 //
-//  File.swift
-//  
+//  Robots.swift
+//
 //  
 //  Created by Keisuke Chinone on 2024/06/06.
 //
@@ -14,7 +14,8 @@ struct Robots: RobotsConfiguration {
 
     init() {
         self.disallowRules = [
-            DisallowRule(robot: .chatGPT),
+            DisallowRule(name: "*", paths: ["/"]),
+//            DisallowRule(robot: .chatGPT),
         ]
     }
 }

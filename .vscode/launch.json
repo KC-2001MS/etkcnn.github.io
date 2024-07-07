@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:etkcnn.github.io}",
+            "name": "Debug IgniteStarter",
+            "program": "${workspaceFolder:etkcnn.github.io}/.build/debug/IgniteStarter",
+            "preLaunchTask": "swift: Build Debug IgniteStarter"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:etkcnn.github.io}",
+            "name": "Release IgniteStarter",
+            "program": "${workspaceFolder:etkcnn.github.io}/.build/release/IgniteStarter",
+            "preLaunchTask": "swift: Build Release IgniteStarter"
+        }
+    ]
+}
