@@ -1,5 +1,5 @@
 f002d25c95b4c3185a42e2de071e63c2eb39ea22	not-for-merge	branch 'gh-pages' of https://github.com/apple/swift-markdown
-737e34e4a71c7f8f947e5702f309620f1515e0f8	not-for-merge	branch 'main' of https://github.com/apple/swift-markdown
+82f9258ce53b9da7980d1c1aaf80e5bdbbf98c9b	not-for-merge	branch 'main' of https://github.com/apple/swift-markdown
 d91b618fb49f2b1b93f048efb833fa6867e1ef56	not-for-merge	branch 'release/5.10' of https://github.com/apple/swift-markdown
 16ebb0ccea68c0009f550bd48cca1df8675685dc	not-for-merge	branch 'release/5.6' of https://github.com/apple/swift-markdown
 d6cd065a7e4b6c3fad615dcd39890e095a2f63a2	not-for-merge	branch 'release/5.7' of https://github.com/apple/swift-markdown
@@ -13,19 +13,22 @@ df5fab2167212387577cef087c0ec722ce808174	not-for-merge	branch 'release/5.7-06242
 15bbd521f3efd161995ed55179e9984a7d734c61	not-for-merge	branch 'release/5.9.0' of https://github.com/apple/swift-markdown
 15bbd521f3efd161995ed55179e9984a7d734c61	not-for-merge	branch 'release/5.9.1' of https://github.com/apple/swift-markdown
 907674c2ae2d24c32fba50101821b1a7fdd291e2	not-for-merge	branch 'release/6.0' of https://github.com/apple/swift-markdown
+907674c2ae2d24c32fba50101821b1a7fdd291e2	not-for-merge	branch 'release/6.0.0' of https://github.com/apple/swift-markdown
+907674c2ae2d24c32fba50101821b1a7fdd291e2	not-for-merge	branch 'release/6.0.2' of https://github.com/apple/swift-markdown
+82f9258ce53b9da7980d1c1aaf80e5bdbbf98c9b	not-for-merge	branch 'release/6.1' of https://github.com/apple/swift-markdown
 68b2fed9fb12fb71ac81e537f08bed430b189e35	not-for-merge	branch 'swift-markdown-0.2' of https://github.com/apple/swift-markdown
 e4f95e2dc23097a1a9a1dfdfe3fe3ee44de77378	not-for-merge	branch 'swift-markdown-0.3' of https://github.com/apple/swift-markdown
 4aae40bf6fff5286e0e1672329d17824ce16e081	not-for-merge	branch 'swift-markdown-0.4' of https://github.com/apple/swift-markdown
+8f79cb175981458a0a27e76cb42fee8e17b1a993	not-for-merge	branch 'swift-markdown-0.5' of https://github.com/apple/swift-markdown
 8af190e743b18eadedc053a4c13a1acb9b537135	not-for-merge	'refs/pull/1/head' of https://github.com/apple/swift-markdown
 e84204c8da6f022a5203fa7a9b4d8818f3b51e05	not-for-merge	'refs/pull/10/head' of https://github.com/apple/swift-markdown
 e33e4d90b3beced408d0d91e76799599c316fca5	not-for-merge	'refs/pull/100/head' of https://github.com/apple/swift-markdown
 69f4625e4a33c46161f9f0b9cbfd8ec8caf7493b	not-for-merge	'refs/pull/102/head' of https://github.com/apple/swift-markdown
-b9f13840cf554eca48ad66303a06c55f502094e2	not-for-merge	'refs/pull/103/head' of https://github.com/apple/swift-markdown
-17a3c51d19b0a04a41c6fec2b58ed33ab4d36d61	not-for-merge	'refs/pull/103/merge' of https://github.com/apple/swift-markdown
+29e8e09b362a9e5ccb3a4ecf0ffb34f920e82290	not-for-merge	'refs/pull/103/head' of https://github.com/apple/swift-markdown
+b5947f8bca2e59f4412c2bbfe603c93fdbca08c3	not-for-merge	'refs/pull/103/merge' of https://github.com/apple/swift-markdown
 930226f13944129ce892a26c509e72c3fa1c5325	not-for-merge	'refs/pull/104/head' of https://github.com/apple/swift-markdown
 df2cb36f9a844a47e24ea2865ae9d593e7c0760a	not-for-merge	'refs/pull/105/head' of https://github.com/apple/swift-markdown
-ec81e2408a7a623d70a792ae74cbae8b292bc83d	not-for-merge	'refs/pull/106/head' of https://github.com/apple/swift-markdown
-72a6ecf37e2cea5cfb90cb51be4ea90205262a74	not-for-merge	'refs/pull/106/merge' of https://github.com/apple/swift-markdown
+0db3d31cde55aa6d376292576139760738813601	not-for-merge	'refs/pull/106/head' of https://github.com/apple/swift-markdown
 32c8382f16b95f344e60731fd9668383ec9e7bc0	not-for-merge	'refs/pull/107/head' of https://github.com/apple/swift-markdown
 b1728a4286ddfa6b345e347360e56c56ce536c82	not-for-merge	'refs/pull/11/head' of https://github.com/apple/swift-markdown
 df6944ac5b2329e78ae467755203cc62f22da876	not-for-merge	'refs/pull/110/head' of https://github.com/apple/swift-markdown
@@ -66,7 +69,7 @@ dbf67260f8bc2a7038a0cceb324e91f98243eb0d	not-for-merge	'refs/pull/15/head' of ht
 8b24b70779b0d41faaa968fdeed5a680453d559b	not-for-merge	'refs/pull/156/head' of https://github.com/apple/swift-markdown
 d15278102358253f63dd27eabfcc0589b80290eb	not-for-merge	'refs/pull/157/head' of https://github.com/apple/swift-markdown
 7ebc28a44eca3df65d90d72a58cacfb051ff5898	not-for-merge	'refs/pull/158/head' of https://github.com/apple/swift-markdown
-b0ee82cfcdc099ba1b4f7cd7906a0c09a255dd1b	not-for-merge	'refs/pull/158/merge' of https://github.com/apple/swift-markdown
+e894c428b1a8d47b377f834b8df5293bd350b96c	not-for-merge	'refs/pull/158/merge' of https://github.com/apple/swift-markdown
 348e7731801d1cf8d7ac3a8d9112c6f5bdeaab37	not-for-merge	'refs/pull/159/head' of https://github.com/apple/swift-markdown
 8053e85ca31ff2c4481970f4c08a5d74d80a1136	not-for-merge	'refs/pull/16/head' of https://github.com/apple/swift-markdown
 ce668633fa0fafc4d7d9f4634284f74c923fd1ca	not-for-merge	'refs/pull/160/head' of https://github.com/apple/swift-markdown
@@ -75,22 +78,32 @@ ea94ebf0f723061e980faa5dcbcdd6fb791194fa	not-for-merge	'refs/pull/164/head' of h
 7fada1b276515f1a32bce5980a2f8494dd4c1876	not-for-merge	'refs/pull/167/head' of https://github.com/apple/swift-markdown
 9a9050095ec93853c0ed01930a9d108d79dc4776	not-for-merge	'refs/pull/17/head' of https://github.com/apple/swift-markdown
 131429864770350d2e0a5d086e432d3ce9368fef	not-for-merge	'refs/pull/171/head' of https://github.com/apple/swift-markdown
-d615b9354eef23d80a5b1ec5521200acaa509162	not-for-merge	'refs/pull/171/merge' of https://github.com/apple/swift-markdown
+97fab74f772f2eb50581670ab4284ae34cf8a97d	not-for-merge	'refs/pull/171/merge' of https://github.com/apple/swift-markdown
 7cee05893adee026c28b4b3ad15dbeab661966a3	not-for-merge	'refs/pull/173/head' of https://github.com/apple/swift-markdown
 606c4410efd119bf8d57714bedfd23cf8a66fd30	not-for-merge	'refs/pull/174/head' of https://github.com/apple/swift-markdown
-19fb1c65d7f27bb342800c316e12b575ff5197b9	not-for-merge	'refs/pull/175/head' of https://github.com/apple/swift-markdown
-8f79a3de99001233111bab8a22b56d2b33829157	not-for-merge	'refs/pull/175/merge' of https://github.com/apple/swift-markdown
+2b57d7b81a0347f70b14ebc8b034d5806b5ae409	not-for-merge	'refs/pull/175/head' of https://github.com/apple/swift-markdown
+20747d717addee94676be6442955ebe399bec45f	not-for-merge	'refs/pull/175/merge' of https://github.com/apple/swift-markdown
 7ff9f42276e2bf5bb62da4c27227a2cde1eff834	not-for-merge	'refs/pull/177/head' of https://github.com/apple/swift-markdown
-f7675daf3321dc87f63a81f3bdc4eceb6aaacb3a	not-for-merge	'refs/pull/179/head' of https://github.com/apple/swift-markdown
-944df69b73c442edcda7b96d454b380b302d05b4	not-for-merge	'refs/pull/179/merge' of https://github.com/apple/swift-markdown
+1fc66af3d71b8d7bf88657fdf84767c7f97120c8	not-for-merge	'refs/pull/179/head' of https://github.com/apple/swift-markdown
+83c3854628fd586afb4d7f58525552ea74c69168	not-for-merge	'refs/pull/179/merge' of https://github.com/apple/swift-markdown
 77234d6fcf0e45f064dc7fec2786f19a0796b32f	not-for-merge	'refs/pull/18/head' of https://github.com/apple/swift-markdown
 78a297f8b4cd4ba16822034136bfaa1a08014cfc	not-for-merge	'refs/pull/181/head' of https://github.com/apple/swift-markdown
 b733b04969987930e201e5b77cc118fd17f177ee	not-for-merge	'refs/pull/184/head' of https://github.com/apple/swift-markdown
 b17565135622db294c754801d843877c4c347e5a	not-for-merge	'refs/pull/186/head' of https://github.com/apple/swift-markdown
-8f268353c4daa4d47509440e8f00f695f4425881	not-for-merge	'refs/pull/186/merge' of https://github.com/apple/swift-markdown
+4efc363246db668f1d94895b7d0b378403fe9126	not-for-merge	'refs/pull/187/head' of https://github.com/apple/swift-markdown
+2d42ab913294bfafa0cc9202ab9eb02bc12f54bf	not-for-merge	'refs/pull/188/head' of https://github.com/apple/swift-markdown
+d2f37c785590da6b83d8875319017be8952bc016	not-for-merge	'refs/pull/189/head' of https://github.com/apple/swift-markdown
 f86b2e98296eb60b3215948e1da1039ddb8c96ed	not-for-merge	'refs/pull/19/head' of https://github.com/apple/swift-markdown
+b86ccd16658856fe1623649cad76938a8fd13a0c	not-for-merge	'refs/pull/196/head' of https://github.com/apple/swift-markdown
 b79a376756b75920cdedd97093823e4d072ac76f	not-for-merge	'refs/pull/2/head' of https://github.com/apple/swift-markdown
 fc3d8345d68deb60f89ed4b7d93cb9d231e224a8	not-for-merge	'refs/pull/20/head' of https://github.com/apple/swift-markdown
+e5fab4b9a8365593ccce5de8f164533c8fd3c02a	not-for-merge	'refs/pull/200/head' of https://github.com/apple/swift-markdown
+0e92d8ce27105223e36cf447d23e85fea3bdfaef	not-for-merge	'refs/pull/202/head' of https://github.com/apple/swift-markdown
+52fbe2d3f807709ad67470308c50b7dfc7210e38	not-for-merge	'refs/pull/203/head' of https://github.com/apple/swift-markdown
+a2b1fe301b5abf5e50baf58c748dcdefd002ad23	not-for-merge	'refs/pull/204/head' of https://github.com/apple/swift-markdown
+afc094df2ba244913314622751f313a96a23c2d8	not-for-merge	'refs/pull/204/merge' of https://github.com/apple/swift-markdown
+279be5248f0337b72209802d5a7400b0678ac53e	not-for-merge	'refs/pull/206/head' of https://github.com/apple/swift-markdown
+5fb76de84a9ad636abc2adea8775ed6d7440ae69	not-for-merge	'refs/pull/207/head' of https://github.com/apple/swift-markdown
 6c5f7bef53e6842d2323f295b336eed82e2d4365	not-for-merge	'refs/pull/21/head' of https://github.com/apple/swift-markdown
 06115ed58172b6dd2cdb8d95f06df64f39aaeb12	not-for-merge	'refs/pull/22/head' of https://github.com/apple/swift-markdown
 aec58713c232f456d1845901220ad6fa492acd5f	not-for-merge	'refs/pull/23/head' of https://github.com/apple/swift-markdown
@@ -145,6 +158,7 @@ e7c09fe95050d283a49b09e690a05010152e45e5	not-for-merge	'refs/pull/98/head' of ht
 68b2fed9fb12fb71ac81e537f08bed430b189e35	not-for-merge	tag '0.2.0' of https://github.com/apple/swift-markdown
 e4f95e2dc23097a1a9a1dfdfe3fe3ee44de77378	not-for-merge	tag '0.3.0' of https://github.com/apple/swift-markdown
 4aae40bf6fff5286e0e1672329d17824ce16e081	not-for-merge	tag '0.4.0' of https://github.com/apple/swift-markdown
+8f79cb175981458a0a27e76cb42fee8e17b1a993	not-for-merge	tag '0.5.0' of https://github.com/apple/swift-markdown
 9723d2d8ea1859fce111a81d14fb1d9644ee9e38	not-for-merge	tag 'swift-5.10-DEVELOPMENT-SNAPSHOT-2023-09-08-a' of https://github.com/apple/swift-markdown
 24b5a206e3616e84a8389c34c7e7f6f7ac3f2312	not-for-merge	tag 'swift-5.10-DEVELOPMENT-SNAPSHOT-2023-09-09-a' of https://github.com/apple/swift-markdown
 93def94e9d17feb6c2398e64c0f96d269b1e1613	not-for-merge	tag 'swift-5.10-DEVELOPMENT-SNAPSHOT-2023-10-05-a' of https://github.com/apple/swift-markdown
@@ -422,6 +436,50 @@ fa308beb59c5fe783d370739d872fff995a55e17	not-for-merge	tag 'swift-6.0-DEVELOPMEN
 5bd29f40fff00898790abfafa2fe58f77f65c371	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-03-a' of https://github.com/apple/swift-markdown
 3b07ce28486f97da950ec142c2a01559fbdf2478	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-04-a' of https://github.com/apple/swift-markdown
 b3000683d241b962d9aca60e704df80244e65663	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-06-a' of https://github.com/apple/swift-markdown
+88851fd66207fc556b665447155640095c177aac	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-07-a' of https://github.com/apple/swift-markdown
+8eb59c2817b21ec61b8aa04df11ef4048d4b097a	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-08-a' of https://github.com/apple/swift-markdown
+dfb3dd12fd0e790f0019de33d2eaf7984045ab54	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-09-a' of https://github.com/apple/swift-markdown
+3f06f85502d1d141ca392fac79d4679420ce59d8	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-10-a' of https://github.com/apple/swift-markdown
+49f1bfe47e4d4ec17ac317a5da8e54bf3eed10ac	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-11-a' of https://github.com/apple/swift-markdown
+04e22345674614bae548422d86e452598a0b245b	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-12-a' of https://github.com/apple/swift-markdown
+a72252a3728b8b182a93a39b3b23102b1dc41102	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-13-a' of https://github.com/apple/swift-markdown
+c868383650ae550cc6e7e2c9cd4d843022a4d727	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-15-a' of https://github.com/apple/swift-markdown
+b99244090b7bd954447333fee935e3ce8af75da7	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-16-a' of https://github.com/apple/swift-markdown
+030d897a9b0c34fdcb070ae19afd1f231d68a166	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-17-a' of https://github.com/apple/swift-markdown
+0ee4c3666206e697f45a23e9ddbc60471cddf766	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-18-a' of https://github.com/apple/swift-markdown
+016f5036abde24f0612109fd29b6c654453b0fb7	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-19-a' of https://github.com/apple/swift-markdown
+616ec317d43e764daa6ac28d3924fc2cf2b2dfd7	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-21-a' of https://github.com/apple/swift-markdown
+79f8849d0fbf35dfad736b1cdd426cd123129f7c	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-23-a' of https://github.com/apple/swift-markdown
+762c7a4c4eb3b374b291bd4dc24569434d933da2	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-24-a' of https://github.com/apple/swift-markdown
+0e259dd7f6a4c9edeb515f45b0e2c71245d13c15	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-25-a' of https://github.com/apple/swift-markdown
+3d38387c294db76397e0d0463e75fd5015a48093	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-26-a' of https://github.com/apple/swift-markdown
+8d09907041a9fc56e9843a40d1c9038b02edac84	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-27-a' of https://github.com/apple/swift-markdown
+192b2c76830f3d620062e93ee2ef7160206098da	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-29-a' of https://github.com/apple/swift-markdown
+f87fbce1a1760f455bde4f4360d6f7f67744721f	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-30-a' of https://github.com/apple/swift-markdown
+13ed8dcd7f9a51391954c885bfbe1ddc5c533ec3	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-31-a' of https://github.com/apple/swift-markdown
+1f7ecee3fdcab63a5e79e73518e92c9a1dcfae53	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-01-a' of https://github.com/apple/swift-markdown
+b75c3e112b11ee2d89e6c0c9be19786a10b054c5	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-02-a' of https://github.com/apple/swift-markdown
+a68db26f21581e936525a2c854a52db2755c81ec	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-06-a' of https://github.com/apple/swift-markdown
+ec8594696bbe124f101f797327cb743bdd0e5015	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-07-a' of https://github.com/apple/swift-markdown
+8108882336046653d89fea3ce7fe06c7200b01f0	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-08-a' of https://github.com/apple/swift-markdown
+cf2e661beb9a57be4bb843bc0bb70963818cadc4	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-09-a' of https://github.com/apple/swift-markdown
+bb3c371d491fc3f74217ffeeec2b697de08059d0	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-10-a' of https://github.com/apple/swift-markdown
+cd02630e4c8f0eaecf5b825697e1b67344ea2d2e	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-13-a' of https://github.com/apple/swift-markdown
+561e41927e7368f36c133dc300cf3ded7030c11d	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-16-a' of https://github.com/apple/swift-markdown
+601ca64fadec21ae2b5cafa1e18398d6ad7d629d	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-17-a' of https://github.com/apple/swift-markdown
+435d134be5a5b0d2d00fea539a8054acf69ffe3a	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-19-a' of https://github.com/apple/swift-markdown
+38f0f475eabae285d8c9b389bd1af273ed29b0e1	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-20-a' of https://github.com/apple/swift-markdown
+27d28202078a4d86c10fe021366117387f13cf92	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-21-a' of https://github.com/apple/swift-markdown
+0aa6b3044339449a6718c94755185f188a471929	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-22-a' of https://github.com/apple/swift-markdown
+ef837d94c703193c1b21c6e4c1d288dcf3481835	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-09-11-a' of https://github.com/apple/swift-markdown
+8f0aa779c9f504723700fe98f2bad5ddd323e53f	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-09-17-a' of https://github.com/apple/swift-markdown
+352a5ed51c0079cc299b66ea0878bf320f8e98ec	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-10-08-a' of https://github.com/apple/swift-markdown
+7ec96ed187858cea1ebd1e471331f5bd26d335de	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-10-12-a' of https://github.com/apple/swift-markdown
+a60411c3ba5be29f0d3c6855f5b154d7424e8e95	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-11-05-a' of https://github.com/apple/swift-markdown
+907674c2ae2d24c32fba50101821b1a7fdd291e2	not-for-merge	tag 'swift-6.0-RELEASE' of https://github.com/apple/swift-markdown
+907674c2ae2d24c32fba50101821b1a7fdd291e2	not-for-merge	tag 'swift-6.0.1-RELEASE' of https://github.com/apple/swift-markdown
+907674c2ae2d24c32fba50101821b1a7fdd291e2	not-for-merge	tag 'swift-6.0.2-RELEASE' of https://github.com/apple/swift-markdown
+0e86bee6649785f767f7a4b0f23d08d058f5d84f	not-for-merge	tag 'swift-6.1-DEVELOPMENT-SNAPSHOT-2024-11-19-a' of https://github.com/apple/swift-markdown
 fe7d3aa16e36a105cfa0c3d05f11780e847dd04f	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2021-11-02-a' of https://github.com/apple/swift-markdown
 71cc9041d38e5314cd6ad429ee7dc05666b4c021	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2021-11-10-a' of https://github.com/apple/swift-markdown
 4f2a871413f0ba643206dd0e820917066e5dec06	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2021-11-11-a' of https://github.com/apple/swift-markdown
@@ -784,3 +842,53 @@ cc13f9cd80bdba0c4ca3d225c71b44157ab1cccd	not-for-merge	tag 'swift-DEVELOPMENT-SN
 4a7ecc32bd800e391ed6a6bb20e005abbcfcd71c	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-03-a' of https://github.com/apple/swift-markdown
 f99536ede02953c181a03278e6e567356ed6b4a5	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-05-a' of https://github.com/apple/swift-markdown
 8c8afcef73d480aaa7ad2a4587c1140f8d28a6cb	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-06-a' of https://github.com/apple/swift-markdown
+27e2fb19b85cd567bbdf1bcb8d73256cb85dd081	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-07-a' of https://github.com/apple/swift-markdown
+587abef78c0381ac3f28ac582bbf0cbb1113aca5	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-08-a' of https://github.com/apple/swift-markdown
+d1cf04149d1799c5f3bec8602f9a7ee60844d508	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-09-a' of https://github.com/apple/swift-markdown
+c8a477ba709f2f1a38f978ff336b7e3caf590469	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-10-a' of https://github.com/apple/swift-markdown
+8846aed0050c991df33dcaef50b5f7886fd4c364	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-11-a' of https://github.com/apple/swift-markdown
+ed582a6dc32111b407f77e2dbe6445816f24cf78	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-13-a' of https://github.com/apple/swift-markdown
+343ecb0643d79b084d4e0b91072d2321fae2734f	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-14-a' of https://github.com/apple/swift-markdown
+a5dc00684f697e5c8c603e7702798f721b521385	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-15-a' of https://github.com/apple/swift-markdown
+6c83798ec61808fd9b861ee0e06a7821676b59ec	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-22-a' of https://github.com/apple/swift-markdown
+9c9b0cd7a61db4f14bad4055264ccb2f54ba9929	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-24-a' of https://github.com/apple/swift-markdown
+5a3651f51dd34a8c657ffc738090d883d34fc560	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-25-a' of https://github.com/apple/swift-markdown
+f2a6ee4fa751ec1fddc2f3e3554b4e86c7ba7b96	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-27-a' of https://github.com/apple/swift-markdown
+c60d59cf07f2012fcf798108453fb6e30aced87b	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-29-a' of https://github.com/apple/swift-markdown
+0b1090e207a6ef3639836aa1f266a0d741a8b84c	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-31-a' of https://github.com/apple/swift-markdown
+1b635b1d3314329b36d2f137dd45deafce43f2b1	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-01-a' of https://github.com/apple/swift-markdown
+a1e9db4d21f0cb82547562fb2214cf18ccb098b9	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-02-a' of https://github.com/apple/swift-markdown
+05cdd2241749b59f9e5407c93885af533cb7e1cb	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-03-a' of https://github.com/apple/swift-markdown
+da542c311c4b7eb46946b2db5e491d4562dc65ae	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-05-a' of https://github.com/apple/swift-markdown
+c8e6be2acef8776e7d5a3019216ede8eb1f9846d	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-06-a' of https://github.com/apple/swift-markdown
+22875677adf82bce8daeb906d77db516501c1548	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-07-a' of https://github.com/apple/swift-markdown
+3a6a448656626a794a812bfa7a9dd023f4e42036	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-16-a' of https://github.com/apple/swift-markdown
+25446d6658da6af09d26edec08807bc95e18ff1b	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-18-a' of https://github.com/apple/swift-markdown
+83bab39881a7899ba5ec8cc3cdddec8a1531ac63	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-19-a' of https://github.com/apple/swift-markdown
+04c5e5ee2ea42fe841d7cb0854ddd56e9409b3b2	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-20-a' of https://github.com/apple/swift-markdown
+1860573dd60beb0d1a6b1b040a2a3a36ab3b7744	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-21-a' of https://github.com/apple/swift-markdown
+e80abbbbfd4f8c08539097293792cacd8d399a12	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-26-a' of https://github.com/apple/swift-markdown
+6b96f32a62ae4c7b78336beffa6869309bd13644	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-28-a' of https://github.com/apple/swift-markdown
+37f20fdea2cd459a6e19c8b7c6342536976bef32	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-29-a' of https://github.com/apple/swift-markdown
+1da6eec0590142b87bce9716b3e444546784642e	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-04-a' of https://github.com/apple/swift-markdown
+b84c22f5b7d28a8b7e72453992bcad298ef6b2cc	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-05-a' of https://github.com/apple/swift-markdown
+f7323cc1aea6edff1adabfe9d363a05079295680	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-06-a' of https://github.com/apple/swift-markdown
+f6db0b3483fa3bf2f6fee23dda1fa36a2072df25	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-11-a' of https://github.com/apple/swift-markdown
+856cc0ba5c3810010afd4d8d0313e682d3a6b7c7	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-12-a' of https://github.com/apple/swift-markdown
+75be25ee508550f8e840647c2c2554558910eb5e	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-13-a' of https://github.com/apple/swift-markdown
+cd46df97339c6ddb078b3cf7273518c0c3120475	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-14-a' of https://github.com/apple/swift-markdown
+7e44fe5c24d4cc269fd14f2018a9e0985cb1d895	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-15-a' of https://github.com/apple/swift-markdown
+96de8bd8e0b2dd0d9d728bf901cb4a4e222e191b	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-16-a' of https://github.com/apple/swift-markdown
+acadc63f31cebba52133e63bb9d24b939e132756	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-17-a' of https://github.com/apple/swift-markdown
+594114b54f2a33af5c857b7bc9bd212b8e2127d4	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-18-a' of https://github.com/apple/swift-markdown
+bbc8495f89ca22b1a2e6f5ae2d9b36fc15c3c37b	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-24-a' of https://github.com/apple/swift-markdown
+d114b01b58581d49e025916cf7d448429107bda6	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-25-a' of https://github.com/apple/swift-markdown
+09df812e4148dd993280791dbdd2beb18fb3cb88	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-10-08-a' of https://github.com/apple/swift-markdown
+f9df00e5e88006a85ff91f05c4a97f418a7e10f7	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-10-25-a' of https://github.com/apple/swift-markdown
+a6d0c716142141105c154176f3f2c9b9aed16867	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-10-27-a' of https://github.com/apple/swift-markdown
+a9d27102607d7c58dc002cfa8000b7e26daa0e73	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-10-30-a' of https://github.com/apple/swift-markdown
+5e01f6bd1fdeb0cf0803e81e264690e89a7e57f9	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-11-09-a' of https://github.com/apple/swift-markdown
+90ffa0cad9d91f6e8bb1e3fd18d171974b1a1ee2	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-11-14-a' of https://github.com/apple/swift-markdown
+37a89525f917f01cb46f3b3912a3246bae96952e	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-11-16-a' of https://github.com/apple/swift-markdown
+9364c2c4e8ced417b1caa24f949a8a1164e6b6c3	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-11-18-a' of https://github.com/apple/swift-markdown
+8c48ebc927bda8c93d826804cb3d3dc9c1e5fbf7	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-11-19-a' of https://github.com/apple/swift-markdown

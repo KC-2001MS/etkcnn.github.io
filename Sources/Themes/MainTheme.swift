@@ -8,9 +8,9 @@ struct MyTheme: Theme {
 
             Body {
                 page.body
-
-                IgniteFooter()
             }
+            .padding(.top, 80)
+            .background("#E6E6E6")
         }
     }
 }

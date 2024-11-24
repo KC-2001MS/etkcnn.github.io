@@ -1,0 +1,4 @@
+module ArgumentParser {
+    header "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/ArgumentParser-tool.build/ArgumentParser-Swift.h"
+    requires objc
+}

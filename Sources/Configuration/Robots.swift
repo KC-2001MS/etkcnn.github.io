@@ -14,8 +14,7 @@ struct Robots: RobotsConfiguration {
 
     init() {
         self.disallowRules = [
-            DisallowRule(name: "*", paths: ["/"]),
-//            DisallowRule(robot: .chatGPT),
+            DisallowRule(name: "*"),
         ]
     }
 }

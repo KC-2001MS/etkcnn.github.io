@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/master.swiftdeps"
+  },
+  "/Users/keisuke/Documents/個人開発/etkcnn.github.io/Sources/Components/NavigationTopBar.swift": {
+    "dependencies": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/NavigationTopBar.d",
+    "object": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/NavigationTopBar.swift.o",
+    "swiftmodule": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/NavigationTopBar~partial.swiftmodule",
+    "swift-dependencies": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/NavigationTopBar.swiftdeps"
+  },
+  "/Users/keisuke/Documents/個人開発/etkcnn.github.io/Sources/Configuration/Robots.swift": {
+    "dependencies": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/Robots.d",
+    "object": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/Robots.swift.o",
+    "swiftmodule": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/Robots~partial.swiftmodule",
+    "swift-dependencies": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/Robots.swiftdeps"
+  },
+  "/Users/keisuke/Documents/個人開発/etkcnn.github.io/Sources/Pages/Consumables.swift": {
+    "dependencies": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/Consumables.d",
+    "object": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/Consumables.swift.o",
+    "swiftmodule": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/Consumables~partial.swiftmodule",
+    "swift-dependencies": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/Consumables.swiftdeps"
+  },
+  "/Users/keisuke/Documents/個人開発/etkcnn.github.io/Sources/Pages/Home.swift": {
+    "dependencies": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/Home.d",
+    "object": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/Home.swift.o",
+    "swiftmodule": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/Home~partial.swiftmodule",
+    "swift-dependencies": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/Home.swiftdeps"
+  },
+  "/Users/keisuke/Documents/個人開発/etkcnn.github.io/Sources/Site.swift": {
+    "dependencies": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/Site.d",
+    "object": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/Site.swift.o",
+    "swiftmodule": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/Site~partial.swiftmodule",
+    "swift-dependencies": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/Site.swiftdeps"
+  },
+  "/Users/keisuke/Documents/個人開発/etkcnn.github.io/Sources/Themes/MainTheme.swift": {
+    "dependencies": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/MainTheme.d",
+    "object": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/MainTheme.swift.o",
+    "swiftmodule": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/MainTheme~partial.swiftmodule",
+    "swift-dependencies": "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/IgniteStarter.build/MainTheme.swiftdeps"
+  }
+}

@@ -3,8 +3,7 @@ b8fcc01dc19849cad10050b824a293ea563bd3d6	not-for-merge	branch 'QuietMisdreavus/l
 df39f3ec851279d8159dbdfff7f0f83f854c08dc	not-for-merge	branch 'QuietMisdreavus/pathological-fixes' of https://github.com/apple/swift-cmark
 71a79e48f10865711710df25fd03f6d743dd8519	not-for-merge	branch 'QuietMisdreavus/spoiler-ext' of https://github.com/apple/swift-cmark
 c2b9ecb97186c4caf7d5be87cf21bfbfe85590db	not-for-merge	branch 'QuietMisdreavus/sup-ext' of https://github.com/apple/swift-cmark
-2403ee8513838a34b9d941f6a81cc8a23eb6ed3a	not-for-merge	branch 'egorzhdan/include-inside-extern-c' of https://github.com/apple/swift-cmark
-2c47322cb32cbed555f13bf5cbfaa488cc30a785	not-for-merge	branch 'gfm' of https://github.com/apple/swift-cmark
+b022b08312decdc46585e0b3440d97f6f22ef703	not-for-merge	branch 'gfm' of https://github.com/apple/swift-cmark
 9c8096a23f44794bde297452d87c455fc4f76d42	not-for-merge	branch 'gym' of https://github.com/apple/swift-cmark
 9c8096a23f44794bde297452d87c455fc4f76d42	not-for-merge	branch 'main' of https://github.com/apple/swift-cmark
 3bc2f3e25df0cecc5dc269f7ccae65d0f386f06a	not-for-merge	branch 'release/5.10' of https://github.com/apple/swift-cmark
@@ -26,7 +25,10 @@ f218e5d7691f78b55bfa39b367763f4612486c35	not-for-merge	branch 'release/5.9' of h
 5ef0833564068f079cce57184e8949c3b4a9238e	not-for-merge	branch 'release/5.9-20230510' of https://github.com/apple/swift-cmark
 f218e5d7691f78b55bfa39b367763f4612486c35	not-for-merge	branch 'release/5.9.0' of https://github.com/apple/swift-cmark
 f218e5d7691f78b55bfa39b367763f4612486c35	not-for-merge	branch 'release/5.9.1' of https://github.com/apple/swift-cmark
-2c47322cb32cbed555f13bf5cbfaa488cc30a785	not-for-merge	branch 'release/6.0' of https://github.com/apple/swift-cmark
+3ccff77b2dc5b96b77db3da0d68d28068593fa53	not-for-merge	branch 'release/6.0' of https://github.com/apple/swift-cmark
+3ccff77b2dc5b96b77db3da0d68d28068593fa53	not-for-merge	branch 'release/6.0.0' of https://github.com/apple/swift-cmark
+3ccff77b2dc5b96b77db3da0d68d28068593fa53	not-for-merge	branch 'release/6.0.2' of https://github.com/apple/swift-cmark
+b022b08312decdc46585e0b3440d97f6f22ef703	not-for-merge	branch 'release/6.1' of https://github.com/apple/swift-cmark
 5af77f3c1d7f34f252a897094936ac4d162adf4b	not-for-merge	branch 'swift-2.2-branch' of https://github.com/apple/swift-cmark
 5af77f3c1d7f34f252a897094936ac4d162adf4b	not-for-merge	branch 'swift-2.3-branch' of https://github.com/apple/swift-cmark
 5af77f3c1d7f34f252a897094936ac4d162adf4b	not-for-merge	branch 'swift-3.0-branch' of https://github.com/apple/swift-cmark
@@ -103,10 +105,9 @@ f6ffa8dec9cf5b4edde1ff0762262e17b3d99f56	not-for-merge	'refs/pull/54/head' of ht
 79688d4ab6df0e37609e545b86b38c3b985e9d12	not-for-merge	'refs/pull/56/head' of https://github.com/apple/swift-cmark
 fdb19de06187abb6840e966d66cbdde4dd54480e	not-for-merge	'refs/pull/57/head' of https://github.com/apple/swift-cmark
 8efd20ca4b8b366e79772880eb763c62494bae52	not-for-merge	'refs/pull/57/merge' of https://github.com/apple/swift-cmark
-2403ee8513838a34b9d941f6a81cc8a23eb6ed3a	not-for-merge	'refs/pull/58/head' of https://github.com/apple/swift-cmark
-715ed0238be7d0b883a360c4a87d402875af71f3	not-for-merge	'refs/pull/58/merge' of https://github.com/apple/swift-cmark
+8a43e0a410c3369a935beef113ba0731dd8e4de5	not-for-merge	'refs/pull/58/head' of https://github.com/apple/swift-cmark
 b3b6f074a7b31a884fda315bb32f8008437d2d37	not-for-merge	'refs/pull/59/head' of https://github.com/apple/swift-cmark
-2a682465290369523762d1a925bef453b720fbf9	not-for-merge	'refs/pull/59/merge' of https://github.com/apple/swift-cmark
+1bf3bf03d44cad3a1267582d90d06d8dcb3d4d80	not-for-merge	'refs/pull/59/merge' of https://github.com/apple/swift-cmark
 a0db25ce781d1965e17eae5c5deced54f9b97c0f	not-for-merge	'refs/pull/6/head' of https://github.com/apple/swift-cmark
 6f064e61961ad4a9f276e8a7b004f2b3d0040f01	not-for-merge	'refs/pull/60/head' of https://github.com/apple/swift-cmark
 0c3250874ac7cc608434ede6df63b5785a834345	not-for-merge	'refs/pull/61/head' of https://github.com/apple/swift-cmark
@@ -122,11 +123,18 @@ c61e6a0fff0f1edaf1ceadc80987ab1b9bd48cb5	not-for-merge	'refs/pull/7/head' of htt
 8ddd2355be71d2ac25497a0ebce738dc8a366987	not-for-merge	'refs/pull/70/head' of https://github.com/apple/swift-cmark
 8c5c74b2f1a4e1a5f3e16c3ca18ae449faf65d96	not-for-merge	'refs/pull/71/head' of https://github.com/apple/swift-cmark
 7733c64aac546b627912b668e6500b0bd83cbf1b	not-for-merge	'refs/pull/72/head' of https://github.com/apple/swift-cmark
+936f6fde92ed8bf891fc552e61f500b4ed3f6325	not-for-merge	'refs/pull/73/head' of https://github.com/apple/swift-cmark
+ecf62e60abe9ad483fa50ca635ab5b4e068992b6	not-for-merge	'refs/pull/74/head' of https://github.com/apple/swift-cmark
+149b31f65bf20a0cd4897d561e3c16fc2a3fe804	not-for-merge	'refs/pull/75/head' of https://github.com/apple/swift-cmark
+e06e73510ac0aaa5d5ab6eea18bb76ac34bbcd1a	not-for-merge	'refs/pull/75/merge' of https://github.com/apple/swift-cmark
+1e36ae36aeb92220c9f13e0af173850ad9054320	not-for-merge	'refs/pull/76/head' of https://github.com/apple/swift-cmark
+f913f219ca677ac3961725a22323f532c9df8893	not-for-merge	'refs/pull/76/merge' of https://github.com/apple/swift-cmark
 cd8a1cd3fa27a4d98c9018f532ea06d146d9d1f5	not-for-merge	'refs/pull/8/head' of https://github.com/apple/swift-cmark
 848c03106d6ffd2c6c1ea8550643d287473d8c7b	not-for-merge	'refs/pull/9/head' of https://github.com/apple/swift-cmark
 29d9c97e6310b87c4799268eaa2fc76164b2dbd8	not-for-merge	tag '0.2.0' of https://github.com/apple/swift-cmark
 f218e5d7691f78b55bfa39b367763f4612486c35	not-for-merge	tag '0.3.0' of https://github.com/apple/swift-cmark
 3bc2f3e25df0cecc5dc269f7ccae65d0f386f06a	not-for-merge	tag '0.4.0' of https://github.com/apple/swift-cmark
+3ccff77b2dc5b96b77db3da0d68d28068593fa53	not-for-merge	tag '0.5.0' of https://github.com/apple/swift-cmark
 26bd81eb510dde80462954830fc237bb47a1fb6f	not-for-merge	tag 'swift-2.2-RELEASE' of https://github.com/apple/swift-cmark
 327e00d25b2fc280b848b13f8d01db591be4e3be	not-for-merge	tag 'swift-2.2-SNAPSHOT-2016-01-06-a' of https://github.com/apple/swift-cmark
 7ed91bf8dc3bc3ca943589f096382d15783fba37	not-for-merge	tag 'swift-2.2-SNAPSHOT-2016-01-11-a' of https://github.com/apple/swift-cmark
@@ -1383,6 +1391,50 @@ cd07169c981b4fc7681a7e821f877f7d9e29316d	not-for-merge	tag 'swift-6.0-DEVELOPMEN
 f49bcc658106b8d8f0b444e12b1a26da7fe57c01	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-03-a' of https://github.com/apple/swift-cmark
 3a09748bbace71a037d66f7e2074f069e9e39470	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-04-a' of https://github.com/apple/swift-cmark
 94f7d8ce21ed6a78b5d832be1c2287cad8080245	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-06-a' of https://github.com/apple/swift-cmark
+0f9f6ae5d48698698c62aa5eb2b8bbfad4a22abf	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-07-a' of https://github.com/apple/swift-cmark
+196ae88450707ae33ba8fec3eb9b23fdcc9e391a	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-08-a' of https://github.com/apple/swift-cmark
+f832a5c03063f9f3dfb3308ab8a6bfb28c6d19ab	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-09-a' of https://github.com/apple/swift-cmark
+5e2f3ae3ef1d1dca379728a1cfd33cce43688d88	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-10-a' of https://github.com/apple/swift-cmark
+ccf2048ea170497e31e4f52f3028720f109ecc5c	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-11-a' of https://github.com/apple/swift-cmark
+f374e661061ded2e6915c0ee33baad3590277458	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-12-a' of https://github.com/apple/swift-cmark
+1136f42778720f166f43640aebda22d6a3b42072	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-13-a' of https://github.com/apple/swift-cmark
+1e7f18fea869179f35ec9bf232ba86c3f1db460a	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-15-a' of https://github.com/apple/swift-cmark
+1fce9202c0349bff8adce407450b7e82590088cf	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-16-a' of https://github.com/apple/swift-cmark
+13c0cdc723084d8ff97547867a7a3bdf05eb7cc6	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-17-a' of https://github.com/apple/swift-cmark
+57f0ec5c85d953890938b81b4ac6de84de33875e	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-18-a' of https://github.com/apple/swift-cmark
+edc839830bcfdd577d303f22488c4b3277ac09ec	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-19-a' of https://github.com/apple/swift-cmark
+a96f93e35ee9dbee3c8f97badaad9bf2b34c0c56	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-21-a' of https://github.com/apple/swift-cmark
+81718df127a849271316cc211548da8bc9785c18	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-23-a' of https://github.com/apple/swift-cmark
+2cc667d448ba2f10155c1b1d96851b7c94d97382	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-24-a' of https://github.com/apple/swift-cmark
+7de4220437f12fd16e4b105f7506cd5dc4ab046c	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-25-a' of https://github.com/apple/swift-cmark
+23f4cbbb5c74c1476310fecb4072061f86460068	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-26-a' of https://github.com/apple/swift-cmark
+4fe49afd56cd7792a45c34914f977fedd480d1a6	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-27-a' of https://github.com/apple/swift-cmark
+0d59ade6bd3b1f7b39ed1d74254636d4ceeea8af	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-29-a' of https://github.com/apple/swift-cmark
+dbcc0ee887046700ebbe3f46d5ce1f80e3ad7d38	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-30-a' of https://github.com/apple/swift-cmark
+b919547a571c1264aca634e3d4d391ba97d67be2	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-07-31-a' of https://github.com/apple/swift-cmark
+5eb93635edcc5c8506d52c635638bdaae343d7e8	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-01-a' of https://github.com/apple/swift-cmark
+af222deb50d247751bf05f4443f21cc7648a9907	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-02-a' of https://github.com/apple/swift-cmark
+1e776f5439fe8af002e2b8988c93a3c09318af5b	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-06-a' of https://github.com/apple/swift-cmark
+b01c697b375d18e815a79662c88779a03afe0491	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-07-a' of https://github.com/apple/swift-cmark
+dad6220418049792ab3f5800572a58201efee71c	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-08-a' of https://github.com/apple/swift-cmark
+7b2cb4d946e39002ce7207d9aad932d7c9219c9b	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-09-a' of https://github.com/apple/swift-cmark
+4dd9c9cb77c2e673db64e5a6178a7a00d76998ce	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-10-a' of https://github.com/apple/swift-cmark
+35c9c0938b4692409a3116e0ee658aad5d5081dc	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-13-a' of https://github.com/apple/swift-cmark
+9241256318a10d5d92a4c9a9e595b408980b2da7	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-16-a' of https://github.com/apple/swift-cmark
+8a45bd023ec803db9768754999479c2588229b10	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-17-a' of https://github.com/apple/swift-cmark
+c2469bb019834629e1cc50e275a5f5d7eb324b13	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-19-a' of https://github.com/apple/swift-cmark
+89f40e2f6b36a4115e2a458f0eda04e4b7040d3a	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-20-a' of https://github.com/apple/swift-cmark
+2dc3f1eae2124de2daeab9e483243ca454002da0	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-21-a' of https://github.com/apple/swift-cmark
+485fc1779365e89dfd3b9e408f3deaecc95ffd75	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-08-22-a' of https://github.com/apple/swift-cmark
+9e7bfab45867100009d3858fcd99e84911dd3a9e	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-09-11-a' of https://github.com/apple/swift-cmark
+752322ca5deadd2a6ea148f65a69236820d81d21	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-09-17-a' of https://github.com/apple/swift-cmark
+f7eac5ebb97679752eedc6c4f4ee80e1b14aaae0	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-10-08-a' of https://github.com/apple/swift-cmark
+13148111ea855080df43fe8ba442ad67a6aef904	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-10-12-a' of https://github.com/apple/swift-cmark
+d2e8f1d4527e2593855e3d9ae5119a2ad51968be	not-for-merge	tag 'swift-6.0-DEVELOPMENT-SNAPSHOT-2024-11-05-a' of https://github.com/apple/swift-cmark
+3ccff77b2dc5b96b77db3da0d68d28068593fa53	not-for-merge	tag 'swift-6.0-RELEASE' of https://github.com/apple/swift-cmark
+3ccff77b2dc5b96b77db3da0d68d28068593fa53	not-for-merge	tag 'swift-6.0.1-RELEASE' of https://github.com/apple/swift-cmark
+3ccff77b2dc5b96b77db3da0d68d28068593fa53	not-for-merge	tag 'swift-6.0.2-RELEASE' of https://github.com/apple/swift-cmark
+0f9470f4b16d6be1ae77745d9b95ccd64f6bbcd4	not-for-merge	tag 'swift-6.1-DEVELOPMENT-SNAPSHOT-2024-11-19-a' of https://github.com/apple/swift-cmark
 c9851dd3f043e86feda571cbed4f8bcf529c2a91	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2016-01-25-a' of https://github.com/apple/swift-cmark
 1f5e8b3561d0e15a0b3da8b3dc7546a9526c88ef	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2016-02-03-a' of https://github.com/apple/swift-cmark
 0592bbb249098047e329e101230d76cce13a15b5	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2016-02-08-a' of https://github.com/apple/swift-cmark
@@ -2696,3 +2748,53 @@ ade2a6711b4ea7602f2e5b9b332768df4ec507d2	not-for-merge	tag 'swift-DEVELOPMENT-SN
 646ecf8cf7a1d8434bf74234c90ab2763cdddb24	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-03-a' of https://github.com/apple/swift-cmark
 81d76c6e0535db078d1368f417ee1d0d1cc577b5	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-05-a' of https://github.com/apple/swift-cmark
 d80f7905f404686e7c69af95913c76f75dba09d1	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-06-a' of https://github.com/apple/swift-cmark
+87e2d1193449b8400a930c631e388b95a322da85	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-07-a' of https://github.com/apple/swift-cmark
+1a4df3170701e9dc57d860cc6d6c4b4e1a016e1b	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-08-a' of https://github.com/apple/swift-cmark
+168b199bd40857de9a90e470d91dabe0d86c3bc5	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-09-a' of https://github.com/apple/swift-cmark
+4638ec8c5417e80de55514e1e6e99ea095c83400	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-10-a' of https://github.com/apple/swift-cmark
+8498056c0a02097572d95d3e00a022e2b4dc9530	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-11-a' of https://github.com/apple/swift-cmark
+e73a8b6840192bcfa1e43bbfda941dc48a710ef2	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-13-a' of https://github.com/apple/swift-cmark
+1fb3d6ce4f67fea7892d45c96011000489ae68b0	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-14-a' of https://github.com/apple/swift-cmark
+ff9eb9ecb8aa2d4b13e4c3b2a2191db19d80cafe	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-15-a' of https://github.com/apple/swift-cmark
+80c8a4e8edc0329207235530ab0dae7a487c397b	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-22-a' of https://github.com/apple/swift-cmark
+76d06466e1757f2b11bfccbcc472be72ba53eebe	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-24-a' of https://github.com/apple/swift-cmark
+47dcd74c2f6df36d94d1f78323693560c77fffdc	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-25-a' of https://github.com/apple/swift-cmark
+55e2a1d48cf5a7fec664d6588ede872a23a2bc4c	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-27-a' of https://github.com/apple/swift-cmark
+a168d5fa38fa403268dc0e7eba872cdf76e636d1	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-29-a' of https://github.com/apple/swift-cmark
+1ab4ff517e7e306a9a3778d8b9550bd337d77c14	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-07-31-a' of https://github.com/apple/swift-cmark
+f14b056b3b980169a563b9de43efdd9157ae9ffc	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-01-a' of https://github.com/apple/swift-cmark
+d5062fc39227a138d49fc87ccddabce36ad87da3	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-02-a' of https://github.com/apple/swift-cmark
+647ba7d3502a4b69048237ff48291eca12886a0c	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-03-a' of https://github.com/apple/swift-cmark
+03b56e5c821c0f737b78f869b151f3d8759d99d4	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-05-a' of https://github.com/apple/swift-cmark
+e8a35a1b9be91cc92de61ce36fc55569c0cb6ca1	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-06-a' of https://github.com/apple/swift-cmark
+04787e4e7142bb6513aa2949313cac68742aeeca	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-07-a' of https://github.com/apple/swift-cmark
+444a4a39be2953b862f4c42c306e2e25af1c9515	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-16-a' of https://github.com/apple/swift-cmark
+d28e0ca70efa7760d219ed434194f5673cbad6a7	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-18-a' of https://github.com/apple/swift-cmark
+31b3a214c3c96c6950176ee8b0c3bceb265c758d	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-19-a' of https://github.com/apple/swift-cmark
+0a76fbb45f9b7c610ea774b45b93dfc166c2bf98	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-20-a' of https://github.com/apple/swift-cmark
+9d0952a4844aac958a878df6c6338e5bbca34bc8	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-21-a' of https://github.com/apple/swift-cmark
+1e2abb4f15fd5c8fbdead8d2bb48ca1240bdf08d	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-26-a' of https://github.com/apple/swift-cmark
+5d729c45eed804cfaded162df75503455e3efbf0	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-28-a' of https://github.com/apple/swift-cmark
+c33195434147eabe40edfcc9a9650bf17443d41d	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-08-29-a' of https://github.com/apple/swift-cmark
+ebc04178c0fcb8d8e08c60108b8e31320e465b09	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-04-a' of https://github.com/apple/swift-cmark
+27aaa437bb64e50e8f042df3b5b73adec6be80c1	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-05-a' of https://github.com/apple/swift-cmark
+c94cda03d0564c04ac0048d19339ed92ab43df29	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-06-a' of https://github.com/apple/swift-cmark
+7d20dd44591af2974634b54d1752cf7e1df4701f	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-11-a' of https://github.com/apple/swift-cmark
+b8e1e2fd0bb82245a90aba49b848bc99df0da4c9	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-12-a' of https://github.com/apple/swift-cmark
+f2f49e619203f501b853875fd5bb8fea74ba133b	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-13-a' of https://github.com/apple/swift-cmark
+77acfe1bf4e489a684c8dac15f6d94292fbd5780	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-14-a' of https://github.com/apple/swift-cmark
+5e9bbe8a114b921c97a34f8f2d318d41cb1e938e	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-15-a' of https://github.com/apple/swift-cmark
+d2da44a504725d9d8a57f564a5459b04669b311a	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-16-a' of https://github.com/apple/swift-cmark
+1d862b6fa717e081ace8f9712eacde99e12ae3ac	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-17-a' of https://github.com/apple/swift-cmark
+a6de64bc2e3933c86802ec270533c1e47990e6ee	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-18-a' of https://github.com/apple/swift-cmark
+2f3c1cb5f1d70c14e5ce1f2916163c4636734891	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-24-a' of https://github.com/apple/swift-cmark
+5170813e1facd01687043ed96c247980670f4936	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-09-25-a' of https://github.com/apple/swift-cmark
+b88b430b2020291b046263239a17e61f82539367	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-10-08-a' of https://github.com/apple/swift-cmark
+9cd7a66c3c4a55035e96827d85ef8b42c0fc215d	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-10-25-a' of https://github.com/apple/swift-cmark
+55b41d55bea653ceaad64a88706ab4b04d0233b7	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-10-27-a' of https://github.com/apple/swift-cmark
+eb58556e6ece19dd47aebcb45053cbc2c36fa5f2	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-10-30-a' of https://github.com/apple/swift-cmark
+03bd7922b98ecc369600948fc9948c005593c81a	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-11-09-a' of https://github.com/apple/swift-cmark
+2e39f6e9a7fb7e191f456a2ac4826898a0a3e1a9	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-11-14-a' of https://github.com/apple/swift-cmark
+224d882732c317b41a549367ddf6e5d27e7db130	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-11-16-a' of https://github.com/apple/swift-cmark
+6ef33d9f61bfcf8c301e876d4b7748167750f601	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-11-18-a' of https://github.com/apple/swift-cmark
+e463076ded12fe9ac3b2d1d108e7ae3283e7e648	not-for-merge	tag 'swift-DEVELOPMENT-SNAPSHOT-2024-11-19-a' of https://github.com/apple/swift-cmark

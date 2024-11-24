@@ -15,9 +15,9 @@ struct IgniteWebsite {
 }
 
 struct ExampleSite: Site {    
-    var name = "Hello World"
-    var titleSuffix = " – My Awesome Site"
-    var url = URL("https://etsuko.chinone.org")
+    var name = "ヘ〜ルプ〜"
+    var titleSuffix = " – ヘ〜ルプ〜"
+    var url = URL(string: "https://etsuko.chinone.org")!
     var builtInIconsEnabled = true
 
     var author = "Keisuke Chinone"
@@ -26,6 +26,14 @@ struct ExampleSite: Site {
     
     var homePage = Home()
     var theme = MyTheme()
+    
+    var pages: [any StaticPage] {
+        Home()
+    }
+    
+    var layouts: [any ContentPage] {
+          Layout()
+    }
 }
 
 

@@ -4,7 +4,6 @@ b8fcc01dc19849cad10050b824a293ea563bd3d6 refs/heads/QuietMisdreavus/linux-build
 df39f3ec851279d8159dbdfff7f0f83f854c08dc refs/heads/QuietMisdreavus/pathological-fixes
 71a79e48f10865711710df25fd03f6d743dd8519 refs/heads/QuietMisdreavus/spoiler-ext
 c2b9ecb97186c4caf7d5be87cf21bfbfe85590db refs/heads/QuietMisdreavus/sup-ext
-2403ee8513838a34b9d941f6a81cc8a23eb6ed3a refs/heads/egorzhdan/include-inside-extern-c
 2c47322cb32cbed555f13bf5cbfaa488cc30a785 refs/heads/gfm
 9c8096a23f44794bde297452d87c455fc4f76d42 refs/heads/gym
 9c8096a23f44794bde297452d87c455fc4f76d42 refs/heads/main
@@ -105,7 +104,6 @@ f6ffa8dec9cf5b4edde1ff0762262e17b3d99f56 refs/pull/54/head
 fdb19de06187abb6840e966d66cbdde4dd54480e refs/pull/57/head
 8efd20ca4b8b366e79772880eb763c62494bae52 refs/pull/57/merge
 2403ee8513838a34b9d941f6a81cc8a23eb6ed3a refs/pull/58/head
-715ed0238be7d0b883a360c4a87d402875af71f3 refs/pull/58/merge
 b3b6f074a7b31a884fda315bb32f8008437d2d37 refs/pull/59/head
 2a682465290369523762d1a925bef453b720fbf9 refs/pull/59/merge
 a0db25ce781d1965e17eae5c5deced54f9b97c0f refs/pull/6/head
