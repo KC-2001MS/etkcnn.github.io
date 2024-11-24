@@ -3,7 +3,7 @@ import Foundation
 extension Foundation.Bundle {
     static let module: Bundle = {
         let mainPath = Bundle.main.bundleURL.appendingPathComponent("Ignite_Ignite.bundle").path
-        let buildPath = "/Users/keisuke/Documents/個人開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/Ignite_Ignite.bundle"
+        let buildPath = "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/Ignite_Ignite.bundle"
 
         let preferredBundle = Bundle(path: mainPath)
 
