@@ -23,6 +23,24 @@
             "name": "Release IgniteStarter",
             "program": "${workspaceFolder:etkcnn.github.io}/.build/release/IgniteStarter",
             "preLaunchTask": "swift: Build Release IgniteStarter"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:etkcnn.github.io}",
+            "name": "Debug He-lp-",
+            "program": "${workspaceFolder:etkcnn.github.io}/.build/debug/He-lp-",
+            "preLaunchTask": "swift: Build Debug He-lp-"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:etkcnn.github.io}",
+            "name": "Release He-lp-",
+            "program": "${workspaceFolder:etkcnn.github.io}/.build/release/He-lp-",
+            "preLaunchTask": "swift: Build Release He-lp-"
         }
     ]
 }

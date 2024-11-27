@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/master.swiftdeps"
+  },
+  "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/Sources/Components/NavigationTopBar.swift": {
+    "dependencies": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/NavigationTopBar.d",
+    "object": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/NavigationTopBar.swift.o",
+    "swiftmodule": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/NavigationTopBar~partial.swiftmodule",
+    "swift-dependencies": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/NavigationTopBar.swiftdeps"
+  },
+  "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/Sources/Configuration/Robots.swift": {
+    "dependencies": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/Robots.d",
+    "object": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/Robots.swift.o",
+    "swiftmodule": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/Robots~partial.swiftmodule",
+    "swift-dependencies": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/Robots.swiftdeps"
+  },
+  "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/Sources/Pages/Home.swift": {
+    "dependencies": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/Home.d",
+    "object": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/Home.swift.o",
+    "swiftmodule": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/Home~partial.swiftmodule",
+    "swift-dependencies": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/Home.swiftdeps"
+  },
+  "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/Sources/Pages/Layout.swift": {
+    "dependencies": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/Layout.d",
+    "object": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/Layout.swift.o",
+    "swiftmodule": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/Layout~partial.swiftmodule",
+    "swift-dependencies": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/Layout.swiftdeps"
+  },
+  "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/Sources/Site.swift": {
+    "dependencies": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/Site.d",
+    "object": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/Site.swift.o",
+    "swiftmodule": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/Site~partial.swiftmodule",
+    "swift-dependencies": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/Site.swiftdeps"
+  },
+  "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/Sources/Themes/MainTheme.swift": {
+    "dependencies": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/MainTheme.d",
+    "object": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/MainTheme.swift.o",
+    "swiftmodule": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/MainTheme~partial.swiftmodule",
+    "swift-dependencies": "/Users/keisuke/Documents/オープンソース開発/etkcnn.github.io/.build/arm64-apple-macosx/debug/He_lp_.build/MainTheme.swiftdeps"
+  }
+}
