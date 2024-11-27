@@ -69,6 +69,9 @@
 夏場の熱中症の件もありますので、暑すぎる場合や寒すぎる場合はエアコンやファンヒーター等で室温を過ごしやすくするようにしてください。<br>
 [リビングのエアコンについて詳しく](/detail/living_air_conditioner)<br>
 [ファンヒーターについて詳しく](/detail/fan_heater)<br>
+[和室のエアコンについて詳しく](/detail/Japanese-style_room_air_conditioner)<br>
+[寝室のエアコンについて詳しく](/detail/bedroom_air_conditioner)<br>
+[ファンについて詳しく](/detail/fan_heater)<br>
 - 体調の管理・確認・状態観察
 - 看護の処置・相談等
 - 医師への報告(緊急時の相談・訪問)
